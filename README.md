@@ -1,0 +1,2 @@
+# ejercicios
+mi primer repositorio
