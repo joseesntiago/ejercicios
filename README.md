@@ -1,2 +1,3 @@
 # ejercicios
-mi primer repositorio
+
+estoy editando el repositorio(primer commit)
